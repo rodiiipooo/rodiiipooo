@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rodiiipooo
--  I’m interested in becoming a software engineer!
+-  I’m interested in becoming a software engineer/data analyst/data scientist!
 -  I’m currently learning python!
 - Been a while! Still learning python, this time on DataCamp.
